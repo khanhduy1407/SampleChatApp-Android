@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    compileSdk 27
 
     defaultConfig {
         applicationId "com.nkduy.sample.chatapp"
         minSdk 16
-        targetSdk 32
+        targetSdk 27
         versionCode 1
         versionName "1.0"
 

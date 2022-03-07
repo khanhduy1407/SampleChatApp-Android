@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "664774845622",
+    "firebase_url": "https://sample-sci-default-rtdb.firebaseio.com",
     "project_id": "sample-sci",
     "storage_bucket": "sample-sci.appspot.com"
   },
